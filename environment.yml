@@ -9,9 +9,15 @@ dependencies:
   - numpy
   - pandas
   - pip
+  - pymc
   - python=3.10.4
   - scipy
   - seaborn
   - statsmodels
   - pip:
     - dynamax @ git+https://github.com/probml/dynamax
+    - preliz
+    - isort
+    - rise
+
+
